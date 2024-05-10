@@ -1,3 +1,8 @@
 *.yaml
 *.pkl
 .DS_STORE
+
+venv/
+venv2/
+*.mp4
+
