@@ -1,0 +1,10 @@
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00000-video.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00000-video1.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00000-video2.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00001-video.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00001-video1.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00001-video2.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00002-video.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00002-video1.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00002-video2.mp4
+/videos/mpi_data/2Itzik/MPIIGroupInteraction/clips_train/00003-video.mp4
